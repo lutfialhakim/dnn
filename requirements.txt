@@ -1,3 +1,5 @@
+streamlit
 tensorflow
-pickle
 numpy
+pandas
+scikit-learn
