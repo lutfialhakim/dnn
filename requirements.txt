@@ -1,6 +1,5 @@
 streamlit
-
+tensorflow
+scikit-learn
 numpy
 pandas
-scikit-learn
-tensorflow-cpu
